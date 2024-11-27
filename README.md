@@ -1,7 +1,7 @@
 # algorithm-visualizer 
-### <a href="https://vanshikajain331.github.io/Algorithm-visualization-tool/">Live Link <img src="https://user-images.githubusercontent.com/26277680/161445394-01bc2179-9fb4-4e57-9cd1-76c47e244ff6.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="15" height="auto" /></a> 
+### <a href="https://vanshikajain331.github.io/Algorithm-visualization-tool/">Live Demo <img src="https://user-images.githubusercontent.com/26277680/161445394-01bc2179-9fb4-4e57-9cd1-76c47e244ff6.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="15" height="auto" /></a> 
 
-### Algorithm
+### Algorithms
 * Sorting
   * Bubble Sort
   * Insertion Sort
@@ -10,20 +10,18 @@
   * Binary Search
 
 
-![image](https://user-images.githubusercontent.com/26277680/163478028-586e4e2e-b949-47c6-a6ad-9c418144af6b.png)
-![image](https://user-images.githubusercontent.com/26277680/163477034-e55f6751-343f-4e84-bafe-881f03ccd2d7.png)
-
-
 ### What I've used in this project
 
-* JavaScript
-* Async & Await function of javaScript
-* D3.js for data visualization
-* Algorithms
-* Html & CSS
+This project demonstrates the use of various technologies and concepts, including:
+
+* JavaScript: Core functionality and interactivity.
+* Async & Awaitfunction of Javascript: Used for handling asynchronous operations seamlessly.
+* D3.js: A powerful library for data visualizations.
+* Algorithms: Implemented for visualizing sorting and other data structures
+* Html & CSS: For structuring and styling of interface
 
 
-### Incomplete feature:
+### Future Scope(Incomplete feature):
 
 * More Sorting algorithms visualizations
 * Linked list visualization
