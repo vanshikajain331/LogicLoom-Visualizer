@@ -21,12 +21,26 @@ This project demonstrates the use of various technologies and concepts, includin
 * Html & CSS: For structuring and styling of interface
 
 
+### Features
+* Sorting algorithm visualizations with interactive displays.
+* Intuitive and user-friendly interface for learning data structures and algorithms.
+
+  
+### How to run this project
+* Clone the repository:
+* Open the project folder and run the index.html file directly or serve it using a live server (e.g., VSCode Live Server).
+* Access the project in your browser and explore the features.
+
+
 ### Future Scope(Incomplete feature):
 
 * More Sorting algorithms visualizations
 * Linked list visualization
 * Tree visualization
 * And More...
+
+### Contibutions :
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
 ### 
 
