@@ -1,4 +1,4 @@
-# algorithm-visualizer 
+# LogicLoom-algorithm-visualizer 
 ### <a href="https://vanshikajain331.github.io/Algorithm-visualization-tool/">Live Demo <img src="https://user-images.githubusercontent.com/26277680/161445394-01bc2179-9fb4-4e57-9cd1-76c47e244ff6.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="15" height="auto" /></a> 
 
 ### Algorithms
